@@ -2,97 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://neopost.neocities.org/posts/custome/</loc>
+    <loc>https://neopost.neocities.org/cn/posts/</loc>
     <lastmod>2025-04-02T21:05:11-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="中文-cn"
-                href="https://neopost.neocities.org/cn/posts/custome/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://neopost.neocities.org/posts/custome/"
-                />
-  </url><url>
-    <loc>https://neopost.neocities.org/tags/portfolio/</loc>
-    <lastmod>2025-04-02T21:05:11-03:00</lastmod>
-  </url><url>
-    <loc>https://neopost.neocities.org/posts/</loc>
-    <lastmod>2025-04-02T21:05:11-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="中文-cn"
-                href="https://neopost.neocities.org/cn/posts/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
                 href="https://neopost.neocities.org/posts/"
                 />
-  </url><url>
-    <loc>https://neopost.neocities.org/tags/</loc>
-    <lastmod>2025-04-02T21:05:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="中文-cn"
-                href="https://neopost.neocities.org/cn/tags/"
+                href="https://neopost.neocities.org/cn/posts/"
                 />
+  </url><url>
+    <loc>https://neopost.neocities.org/cn/tags/</loc>
+    <lastmod>2025-04-02T21:05:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
                 href="https://neopost.neocities.org/tags/"
                 />
-  </url><url>
-    <loc>https://neopost.neocities.org/</loc>
-    <lastmod>2025-04-02T21:05:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="中文-cn"
-                href="https://neopost.neocities.org/cn/"
+                href="https://neopost.neocities.org/cn/tags/"
                 />
+  </url><url>
+    <loc>https://neopost.neocities.org/cn/posts/custome/</loc>
+    <lastmod>2025-04-02T21:05:11-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://neopost.neocities.org/posts/custome/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="中文-cn"
+                href="https://neopost.neocities.org/cn/posts/custome/"
+                />
+  </url><url>
+    <loc>https://neopost.neocities.org/cn/</loc>
+    <lastmod>2025-04-02T21:05:11-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
                 href="https://neopost.neocities.org/"
                 />
-  </url><url>
-    <loc>https://neopost.neocities.org/posts/bust-up/</loc>
-    <lastmod>2025-04-01T10:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="中文-cn"
-                href="https://neopost.neocities.org/cn/posts/bust-up/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://neopost.neocities.org/posts/bust-up/"
+                href="https://neopost.neocities.org/cn/"
                 />
   </url><url>
-    <loc>https://neopost.neocities.org/posts/oc/</loc>
+    <loc>https://neopost.neocities.org/cn/tags/%E7%BB%98%E7%94%BB%E5%90%88%E9%9B%86/</loc>
+    <lastmod>2025-04-02T21:05:11-03:00</lastmod>
+  </url><url>
+    <loc>https://neopost.neocities.org/cn/posts/oc/</loc>
     <lastmod>2025-04-01T10:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="中文-cn"
-                href="https://neopost.neocities.org/cn/posts/oc/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
                 href="https://neopost.neocities.org/posts/oc/"
                 />
-  </url><url>
-    <loc>https://neopost.neocities.org/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="中文-cn"
-                href="https://neopost.neocities.org/cn/categories/"
+                href="https://neopost.neocities.org/cn/posts/oc/"
                 />
+  </url><url>
+    <loc>https://neopost.neocities.org/cn/posts/bust-up/</loc>
+    <lastmod>2025-04-01T10:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://neopost.neocities.org/posts/bust-up/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="中文-cn"
+                href="https://neopost.neocities.org/cn/posts/bust-up/"
+                />
+  </url><url>
+    <loc>https://neopost.neocities.org/cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
                 href="https://neopost.neocities.org/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="中文-cn"
+                href="https://neopost.neocities.org/cn/categories/"
                 />
   </url>
 </urlset>
