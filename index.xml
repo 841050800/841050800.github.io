@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>桃桃子的画廊 | momoka studio!!</title>
+    <link>https://neopost.neocities.org/</link>
+    <description>Recent content on 桃桃子的画廊 | momoka studio!!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Apr 2025 21:05:11 -0300</lastBuildDate>
+    <atom:link href="https://neopost.neocities.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Custome Portfolio</title>
+      <link>https://neopost.neocities.org/posts/custome/</link>
+      <pubDate>Wed, 02 Apr 2025 21:05:11 -0300</pubDate>
+      <guid>https://neopost.neocities.org/posts/custome/</guid>
+      <description>&lt;h2 id=&#34;some-custome-design&#34;&gt;some custome design&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m an old tailor. I sew, sew, sew, sew&amp;hellip;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BustUp Portfolio</title>
+      <link>https://neopost.neocities.org/posts/bust-up/</link>
+      <pubDate>Tue, 01 Apr 2025 10:00:00 -0300</pubDate>
+      <guid>https://neopost.neocities.org/posts/bust-up/</guid>
+      <description>&lt;h2 id=&#34;some-bust-up&#34;&gt;some bust up~&lt;/h2&gt;&#xA;&lt;p&gt;I love these cute girls so much!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OC Portfolio</title>
+      <link>https://neopost.neocities.org/posts/oc/</link>
+      <pubDate>Tue, 01 Apr 2025 10:00:00 -0300</pubDate>
+      <guid>https://neopost.neocities.org/posts/oc/</guid>
+      <description>&lt;h2 id=&#34;some-cute-girls&#34;&gt;some cute girls~&lt;/h2&gt;&#xA;&lt;p&gt;hope u like my oc design&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
